@@ -1,0 +1,1 @@
+setTimeout("alert('Привет')",7000);
